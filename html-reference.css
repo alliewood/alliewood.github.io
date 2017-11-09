@@ -1,1 +1,45 @@
+body {
+  font-family: Arial, Sans-Serif;
+}
+
+h1 {
+  text-align: center;
+
+  color:#4d0000;
+}
+
+.myreftablestyle {
+  width:100%;
+}
+
+.myreftablestyle th {
+  background-color: red;
+}
+.myreftablestyle td {
+  background-color: 	#e6ccb3
+;
+}
+
+.myreftablestyle tf {
+  color: blue;
+}
+
+.examplestyle {
+  background-color: lightgray;
+}
+.namestylecolor {
+  color: blue;
+}
+.namestyle {
+  color:green;
+}
+h2 {
+  border:5px dashed #ff3385;
+}
+
+.displayheading {
+  font-family: "Times New Roman", serif;
+  font-size: 24px;
+}
+
 
