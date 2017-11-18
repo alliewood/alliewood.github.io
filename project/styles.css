@@ -1,0 +1,21 @@
+.content {
+  background-color:#e6b3b3;
+  font-family:"Verdana", sans-serif;
+  color:black;
+}
+
+.purple {
+  color:purple;  
+}
+
+img {
+  width:100%;
+}
+table, th, td {
+    border: 10px solid purple;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}
+
